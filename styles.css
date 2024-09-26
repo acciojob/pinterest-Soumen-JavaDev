@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:start;
+	
+}
+.image{
+	width:40%;
+	
+}
+img{
+	
+	object-fit:cover;
+	width:40%;
+	
+	
+}
+.explore{
+	width:40%;
+}
